@@ -3115,7 +3115,7 @@ ARTICLE
 التي O
 تنص O
 عليها O
-اتفاقات O REVISIT
+اتفاقات O
 جنيف B-LOC
 حول O
 اسرى O
@@ -3911,7 +3911,7 @@ ARTICLE
 خلال O
 استقباله O
 اعضاء O
-المجلسين O REVISIT
+المجلسين O
 التنفيذي O
 والتشريعي O
 لمنطقة O
@@ -4803,7 +4803,7 @@ ARTICLE
 ومن O
 بعض O
 اعضاء O
-البرلمان O REVISIT
+البرلمان O
 واطلق O
 عليه O
 البعض O
@@ -5938,12 +5938,12 @@ Article
 في O
 المائة O
 في O
-القرض B-ORG REVISIT
+القرض B-ORG
 العقاري I-ORG
 والسياحي I-ORG
 ، O
 أن O
-القرض B-ORG REVISIT
+القرض B-ORG
 العقاري I-ORG
 والسياحي I-ORG
 يعتزم O
@@ -6334,7 +6334,7 @@ ARTICLE
 علي O
 التتابع O
 خارج O
-القارة O REVISIT
+القارة O
 الأفريقية O
 . O
 وظهرت O
@@ -6433,7 +6433,7 @@ ARTICLE
 وكان O
 يعيش O
 في O
-العصر O REVISIT
+العصر O
 الحجري O
 ( O
 مادة O
@@ -7566,7 +7566,7 @@ canoes O
 ووصلوا O
 في O
 قوارب O
-الكانو B-MISC REVISIT
+الكانو B-MISC
 . O
 
 وأقاموا O
@@ -7763,7 +7763,7 @@ canoes O
 الخاضع O
 بهم O
 كلمة O
-أفريقيا B-LOC REVISIT
+أفريقيا B-LOC
 . O
 
 وكان O
@@ -7791,7 +7791,7 @@ canoes O
 الرومان O
 يطلقون O
 عليها O
-نوميديا B-LOC REVISIT
+نوميديا B-LOC
 . O
 وهذ O
 المناطق O
@@ -9872,7 +9872,7 @@ ARTICLE
 موقف O
 اقتبس O
 من O
-القران B-MISC REVISIT
+القران B-MISC
 ) O
 . O
 كما O
@@ -9953,7 +9953,7 @@ ARTICLE
 ثم O
 أتم O
 دراسته O
-بمدرسة O REVISIT
+بمدرسة O
 الصفارين B-MISC
 والشراطين I-MISC
 ب O
@@ -13453,7 +13453,7 @@ ARTICLE
 شغل O
 علي B-PERS
 بقتال O
-الخوارج B-ORG REVISIT
+الخوارج B-ORG
 في O
 العراق B-LOC
 أرسل O
@@ -15589,7 +15589,7 @@ ARTICLE
 " O
 الشرق B-LOC
 الاوسط I-LOC
-الكبير O REVISIT
+الكبير O
 " O
 ، O
 والآن O
@@ -16402,7 +16402,7 @@ ARTICLE
 تجعل O
 لبنان B-LOC
 ضحية O
-الشرق B-LOC REVISIT
+الشرق B-LOC
 الاوسط I-LOC
 الجديد O
 . O
@@ -17313,7 +17313,7 @@ ARTICLE
 1936 O
 في O
 عهد O
-النازية O REVISIT
+النازية O
 . O
 
 ويري O
@@ -18236,7 +18236,7 @@ ARTICLE
 أفضل O
 لاعب O
 في O
-المونديال B-MISC REVISIT
+المونديال B-MISC
 جاء O
 إثر O
 تصويت O
@@ -18820,7 +18820,7 @@ ARTICLE
 ويعزى O
 سطوع O
 بريق O
-النازية O REVISIT
+النازية O
 لهزيمة O
 ألمانيا B-LOC
 في O
