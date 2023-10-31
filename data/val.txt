@@ -937,7 +937,7 @@ ARTICLE
 الحواجز O
 التي O
 تقيمها O
-قوات B-ORG REVISIT
+قوات B-ORG
 الاحتلال I-ORG
 الإسرائيلي I-ORG
 " O
@@ -1051,7 +1051,7 @@ ARTICLE
 رئيس O
 مجلس O
 ادارة O
-مؤسسة B-ORG REVISIT
+مؤسسة B-ORG
 الشيخ I-ORG
 عيد I-ORG
 بن I-ORG
@@ -1191,7 +1191,7 @@ ARTICLE
 ARTICLE
 الدوحة B-LOC
 - O
-ق O REVISIT
+ق O
 . O
 ن O
 . O
@@ -1341,7 +1341,7 @@ ARTICLE
 انقرة B-LOC
 - O
 ( O
-أ O REVISIT
+أ O
 . O
 ف O
 . O
@@ -1710,7 +1710,7 @@ ARTICLE
 حزيران O
 / O
 يونيو O
-2004نهاية REVISIT O
+2004نهاية O
 وقف O
 لاطلاق O
 النار O
@@ -1732,7 +1732,7 @@ ARTICLE
 تركيا B-LOC
 اكثر O
 من O
-37الف O REVISIT
+37الف O
 قتيل O
 منذ O
 بدء O
@@ -1765,7 +1765,7 @@ ARTICLE
 طوكيو B-LOC
 - O
 ( O
-اف O REVISIT
+اف O
 ب O
 ) O
 : O
@@ -1821,7 +1821,7 @@ ARTICLE
 ولقد O
 مر O
 حوالي O
-60عاما O REVISIT
+60عاما O
 " O
 . O
 
@@ -2064,7 +2064,7 @@ ARTICLE
 الحلفاء O
 بعد O
 هزيمة O
-1945بارتكاب O REVISIT
+1945بارتكاب O
 جرائم O
 حرب O
 . O
@@ -2183,7 +2183,7 @@ ARTICLE
 تنادي O
 بتغيير O
 قوام O
-قوات B-ORG REVISIT
+قوات B-ORG
 حفظ I-ORG
 السلام I-ORG
 الروسية I-ORG
@@ -2337,7 +2337,7 @@ ARTICLE
 على O
 المصداقية O
 القانونية O
-لقوات O REVISIT
+لقوات O
 حفظ O
 السلام O
 الروسية O
@@ -2806,7 +2806,7 @@ ARTICLE
 مجلس B-ORG
 الامن I-ORG
 ال O
-15ثلاثة O REVISIT
+15ثلاثة O
 خيارات O
 ازاء O
 المرشحين O
