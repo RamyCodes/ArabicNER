@@ -224,7 +224,7 @@
 في O
 ألمانيا B-LOC
 . O
-ARTICLE
+
 رجح O
 الممثل O
 الأعلى O
@@ -2286,7 +2286,7 @@ ARTICLE
 على O
 حياتهم O
 . O
-ARTICLE
+
 قررت O
 الحكومة B-ORG
 المصرية I-ORG
@@ -2489,7 +2489,7 @@ ARTICLE
 المنتجات O
 البترولية O
 . O
-ARTICLE
+
 ارتفع O
 عدد O
 ضحايا O
@@ -2921,7 +2921,7 @@ ARTICLE
 تنقية O
 المياه O
 عرض O
-السناتور O ARTICLE
+السناتور O
 الجمهوري O
 ، O
 ارلن B-PERS
@@ -3115,7 +3115,7 @@ ARTICLE
 التي O
 تنص O
 عليها O
-اتفاقات O REVISIT
+اتفاقات O
 جنيف B-LOC
 حول O
 اسرى O
@@ -3414,7 +3414,7 @@ ARTICLE
 لمحاكمة O
 المعتقلين O
 في O
-غوانتانامو B-LOC ARTICLE
+غوانتانامو B-LOC
 الدوحة B-LOC
 - O
 بيروت B-LOC
@@ -3852,7 +3852,7 @@ ARTICLE
 وحزب B-ORG
 الله I-ORG
 . O
-ARTICLE
+
 بغداد B-LOC
 ( O
 اف B-ORG
@@ -3911,7 +3911,7 @@ ARTICLE
 خلال O
 استقباله O
 اعضاء O
-المجلسين O REVISIT
+المجلسين O
 التنفيذي O
 والتشريعي O
 لمنطقة O
@@ -4803,7 +4803,7 @@ ARTICLE
 ومن O
 بعض O
 اعضاء O
-البرلمان O REVISIT
+البرلمان O
 واطلق O
 عليه O
 البعض O
@@ -4916,7 +4916,7 @@ ARTICLE
 اسلحة O
 الدمار O
 الشامل O
-ليجازبي B-LOC ARTICLE
+ليجازبي B-LOC
 سيتي I-LOC
 ( O
 الفلبين B-LOC
@@ -5220,7 +5220,7 @@ ARTICLE
 ثوران O
 كبير O
 . O
-ARTICLE
+
 أعلنت O
 نوكيا B-ORG
 الفنلندية O
@@ -5391,7 +5391,7 @@ ARTICLE
 مبيعات O
 قياسية O
 . O
-Article
+
 تحنضن O
 مدينة O
 أكادير B-LOC
@@ -5938,12 +5938,12 @@ Article
 في O
 المائة O
 في O
-القرض B-ORG REVISIT
+القرض B-ORG
 العقاري I-ORG
 والسياحي I-ORG
 ، O
 أن O
-القرض B-ORG REVISIT
+القرض B-ORG
 العقاري I-ORG
 والسياحي I-ORG
 يعتزم O
@@ -5994,7 +5994,7 @@ Article
 من O
 الشركاء O
 . O
-ARTICLE
+
 بحثت O
 القمة O
 المصرية O
@@ -6295,7 +6295,7 @@ ARTICLE
 المواقف O
 العربية O
 . O
-ARTICLE
+
 يعتقد O
 ان O
 بها O
@@ -6334,7 +6334,7 @@ ARTICLE
 علي O
 التتابع O
 خارج O
-القارة O REVISIT
+القارة O
 الأفريقية O
 . O
 وظهرت O
@@ -6433,7 +6433,7 @@ ARTICLE
 وكان O
 يعيش O
 في O
-العصر O REVISIT
+العصر O
 الحجري O
 ( O
 مادة O
@@ -7566,7 +7566,7 @@ canoes O
 ووصلوا O
 في O
 قوارب O
-الكانو B-MISC REVISIT
+الكانو B-MISC
 . O
 
 وأقاموا O
@@ -7763,7 +7763,7 @@ canoes O
 الخاضع O
 بهم O
 كلمة O
-أفريقيا B-LOC REVISIT
+أفريقيا B-LOC
 . O
 
 وكان O
@@ -7791,7 +7791,7 @@ canoes O
 الرومان O
 يطلقون O
 عليها O
-نوميديا B-LOC REVISIT
+نوميديا B-LOC
 . O
 وهذ O
 المناطق O
@@ -8158,7 +8158,7 @@ canoes O
 1591 O
 م O
 . O
-ARTICLE
+
 اختتمت O
 اعمال O
 الاجتماع O
@@ -8843,7 +8843,7 @@ ARTICLE
 طيلة O
 فترة O
 انعقاد O
-الاجتماع. O ARTICLE
+الاجتماع. O
 عواصم O
 - O
 وكالات: O
@@ -9514,7 +9514,7 @@ ARTICLE
 جدا O
 " O
 . O
-ARTICLE
+
 تشارلز B-PERS
 الأول I-PERS
 ( O
@@ -9826,7 +9826,7 @@ I I-PERS
 1649 O
 م O
 . O
-ARTICLE
+
 محمد B-PERS
 بن I-PERS
 عبد I-PERS
@@ -9872,7 +9872,7 @@ ARTICLE
 موقف O
 اقتبس O
 من O
-القران B-MISC REVISIT
+القران B-MISC
 ) O
 . O
 كما O
@@ -9953,7 +9953,7 @@ ARTICLE
 ثم O
 أتم O
 دراسته O
-بمدرسة O REVISIT
+بمدرسة O
 الصفارين B-MISC
 والشراطين I-MISC
 ب O
@@ -10457,7 +10457,7 @@ Rif I-ORG
 عصرية O
 بدستورها O
 و O FIX
-برلمان O ARTICLE
+برلمان O
 استبعدت O
 وزيرة O
 الخارجية B-ORG
@@ -10947,7 +10947,7 @@ Rif I-ORG
 ممر O
 الإجلاء O
 . O
-ARTICLE
+
 يصل O
 الرئيس O
 الفنزويلي O
@@ -11654,7 +11654,7 @@ ARTICLE
 أطباء O
 نفسانيين O
 . O
-ARTICLE
+
 الدار B-LOC
 البيضاء I-LOC
 - O
@@ -12269,7 +12269,7 @@ ARTICLE
 الاسلامية O
 العريقة O
 . O
-ARTICLE
+
 قال O
 البنك B-ORG
 الافريقي I-ORG
@@ -12398,7 +12398,7 @@ ARTICLE
 الامن O
 الغذائي O
 . O
-ARTICLE
+
 طوكيو B-LOC
 - O
 رويترز B-ORG
@@ -12545,7 +12545,7 @@ ARTICLE
 في O
 اسيا B-LOC
 . O
-ARTICLE
+
 دينيس B-PERS
 هوانغ I-PERS
 من O
@@ -12705,7 +12705,7 @@ ARTICLE
 الطريفة O
 الأخرى O
 . O
-ARTICLE
+
 علي B-PERS
 بن I-PERS
 أبي I-PERS
@@ -13453,7 +13453,7 @@ ARTICLE
 شغل O
 علي B-PERS
 بقتال O
-الخوارج B-ORG REVISIT
+الخوارج B-ORG
 في O
 العراق B-LOC
 أرسل O
@@ -13689,7 +13689,7 @@ ARTICLE
 مكانه O
 الآن O
 . O
-ARTICLE
+
 تعرضت O
 الأندلس B-LOC
 لمحن O
@@ -15252,7 +15252,7 @@ ARTICLE
 5 O
 قرون O
 . O
-ARTICLE
+
 بعد O
 أربعة O
 قرون O
@@ -15576,7 +15576,7 @@ ARTICLE
 في O
 سراييفو B-LOC
 . O
-ARTICLE
+
 من O
 اجل O
 تغطية O
@@ -15589,7 +15589,7 @@ ARTICLE
 " O
 الشرق B-LOC
 الاوسط I-LOC
-الكبير O REVISIT
+الكبير O
 " O
 ، O
 والآن O
@@ -16402,7 +16402,7 @@ ARTICLE
 تجعل O
 لبنان B-LOC
 ضحية O
-الشرق B-LOC REVISIT
+الشرق B-LOC
 الاوسط I-LOC
 الجديد O
 . O
@@ -16875,7 +16875,7 @@ ARTICLE
 بأكمله O
 " O
 . O
-ARTICLE
+
 لم O
 تثن O
 الحرارة O
@@ -17269,7 +17269,7 @@ ARTICLE
 ونجمات O
 سينمائيات O
 . O
-ARTICLE
+
 تتجه O
 أنظار O
 نحو O
@@ -17313,7 +17313,7 @@ ARTICLE
 1936 O
 في O
 عهد O
-النازية O REVISIT
+النازية O
 . O
 
 ويري O
@@ -17835,7 +17835,7 @@ ARTICLE
 حساب O
 ايطاليا B-LOC
 . O
-ARTICLE
+
 نجح O
 نادي B-ORG
 أندرليخت I-ORG
@@ -18066,7 +18066,7 @@ ARTICLE
 عرض O
 بعينه O
 . O
-ARTICLE
+
 قرر O
 الاتحاد B-ORG
 الدولي I-ORG
@@ -18236,7 +18236,7 @@ ARTICLE
 أفضل O
 لاعب O
 في O
-المونديال B-MISC REVISIT
+المونديال B-MISC
 جاء O
 إثر O
 تصويت O
@@ -18254,7 +18254,7 @@ ARTICLE
 العرس O
 العالمي O
 . O
-ARTICLE
+
 حدائق B-LOC
 بابل I-LOC
 المعلقة I-LOC
@@ -18351,7 +18351,7 @@ ARTICLE
 أنواع O
 الحديقة O
 . O
-ARTICLE
+
 
 
 أعلن O
@@ -18665,7 +18665,7 @@ ARTICLE
 ربع O
 النهائي O
 . O
-ARTICLE
+
 الحرب B-MISC
 العالمية I-MISC
 الأولى I-MISC
@@ -18820,7 +18820,7 @@ ARTICLE
 ويعزى O
 سطوع O
 بريق O
-النازية O REVISIT
+النازية O
 لهزيمة O
 ألمانيا B-LOC
 في O
@@ -19316,7 +19316,7 @@ ARTICLE
 3 O
 اغسطس O
 . O
-ARTICLE
+
 بغداد B-LOC
 - O
 ا B-ORG
@@ -19908,7 +19908,7 @@ ARTICLE
 تدمير O
 العراق B-LOC
 . O
-ARTICLE
+
 شهد O
 العراق B-LOC
 أمس O
@@ -20277,7 +20277,7 @@ ARTICLE
 أكبر O
 تكتل O
 سُني O
-حققت O ARTICLE
+حققت O
 فرنسا B-LOC
 المرتبة O
 الأولى O
@@ -20729,7 +20729,7 @@ ARTICLE
 1800 O
 يورو B-MISC
 . O
-ARTICLE
+
 يحل O
 العاهل O
 الإسباني O
@@ -20831,7 +20831,7 @@ ARTICLE
 قصير O
 من O
 انعقاد O
-المؤتمر O REVISIT
+المؤتمر O
 الأوروافريقي O
 حول O
 الهجرة O
@@ -21006,7 +21006,7 @@ ARTICLE
 إدريس B-PERS
 جطو I-PERS
 . O
-ARTICLE
+
 خسر O
 نادي O
 مانشستر B-ORG
@@ -21075,7 +21075,7 @@ ARTICLE
 الذين O
 كانوا O
 مع O
-المنتخب O REVISIT
+المنتخب O
 الانجليزي O
 في O
 كأس B-MISC
@@ -21426,7 +21426,7 @@ ARTICLE
 ' O
 ' O
 . O
-Article
+
 وافقت O
 لجنة B-ORG
 شؤون I-ORG
@@ -21599,7 +21599,7 @@ Article
 النادي O
 بشكوى O
 إلى O
-لجنة O REVISIT
+لجنة O
 التظلمات O
 أملا O
 في O
@@ -21686,7 +21686,7 @@ Article
 استنادا O
 الى O
 فتوى O
-لجنة O REVISIT
+لجنة O
 شؤون O
 اللاعبين O
 ببطلان O
@@ -21718,7 +21718,7 @@ Article
 التعرف O
 على O
 قرار O
-لجنة O REVISIT
+لجنة O
 التظلمات O
 في O
 هذا O
@@ -22113,7 +22113,7 @@ Article
 جلال B-PERS
 محمود I-PERS
 عضو O
-لجنة O REVISIT
+لجنة O
 الكرة O
 أن O
 النادي O
@@ -22152,7 +22152,7 @@ Article
 أسامة B-PERS
 المليجي I-PERS
 عضو O
-مجلس O REVISIT
+مجلس O
 الإدارة O
 على O
 بيانات O
@@ -22218,7 +22218,7 @@ Article
 الكلية O
 الحربية O
 . O
-article
+
 الرياض B-LOC
 : O
 مساعد O
@@ -22447,7 +22447,7 @@ article
 الأعمال O
 من O
 جامعة B-ORG
-« O REVISIT
+« O
 نورث I-ORG
 كارولاينا I-ORG
 » O
@@ -22536,7 +22536,7 @@ article
 » O
 . O
 * O
-« O article
+« O
 إل B-ORG
 جي I-ORG
 » O
@@ -22562,7 +22562,7 @@ article
 في O
 العالم O
 ( O
-الهاتف B-MISC REVISIT
+الهاتف B-MISC
 الكارت I-MISC
 ) O
 ، O
@@ -22729,7 +22729,7 @@ article
 كل O
 شهر O
 . O
-ARTICLE
+
 * O
 قافلة O
 « O
@@ -22916,7 +22916,7 @@ ARTICLE
 وقت O
 ممكن O
 . O
-ARTICLE
+
 عمان B-LOC
 – O
 بترا B-LOC
@@ -23235,7 +23235,7 @@ ARTICLE
 لازمات O
 وكوارث O
 . O
-ARTICLE
+
 تم O
 نقل O
 الرئيس O
@@ -23311,7 +23311,7 @@ ARTICLE
 محاكمة O
 عادلة O
 . O
-ARTICLE
+
 مقديشو B-LOC
 - O
 نيروبي B-LOC
@@ -23736,7 +23736,7 @@ ARTICLE
 ألف O
 شخص O
 . O
-ARTICLE
+
 سيول B-LOC
 - O
 وص B-ORG
@@ -23935,7 +23935,7 @@ ARTICLE
 الماضي O
 لاسباب O
 غير O
-محددة O ARTICLE
+محددة O
 ألبرت B-PERS
 أينشتاين I-PERS
 ( O
@@ -25257,7 +25257,7 @@ motion I-MISC
 بعد O
 موته O
 . O
-ARTICLE
+
 جوزيف B-PERS
 جون I-PERS
 طومسون I-PERS
@@ -25510,7 +25510,7 @@ ARTICLE
 الرابعة O
 والثمانين O
 . O
-ARTICLE
+
 اعتقلت O
 شرطة O
 بنغلاديش B-LOC
@@ -25662,7 +25662,7 @@ ARTICLE
 الثاني O
 القادم O
 . O
-ARTICLE
+
 قال O
 رئيس O
 الوزراء O
@@ -26243,7 +26243,7 @@ ARTICLE
 السلام O
 المقترحة O
 . O
-ARTICLE
+
 فضيتان O
 لتايكوندو O
 الشرطة O
@@ -26694,7 +26694,7 @@ ARTICLE
 محور O
 المناقشة O
 . O
-ARTICLE
+
 كراتشي B-LOC
 ( O
 رويترز B-ORG
@@ -26842,7 +26842,7 @@ ARTICLE
 الامريكية O
 مثل O
 مشروبي O
-الكوكاكولا B-ORG REVISIT
+الكوكاكولا B-ORG
 والبيبسي I-ORG
 ومطاعم O
 مكدونالدز B-ORG
@@ -27037,7 +27037,7 @@ ARTICLE
 في O
 أفغانستان B-LOC
 . O
-ARTICLE
+
 معتقل O
 جوانتانامو B-LOC
 ، O
@@ -27210,7 +27210,7 @@ ARTICLE
 في O
 إستئجارها O
 . O
-ARTICLE
+
 واشنطن B-LOC
 - O
 ا B-ORG
@@ -27507,7 +27507,7 @@ ARTICLE
 التدخل O
 بفاعلية O
 . O
-ARTICLE
+
 مما O
 شاع O
 وذاع O
@@ -28231,7 +28231,7 @@ ARTICLE
 من O
 النساء O
 في O
-صدر O REVISIT
+صدر O
 الاسلام B-MISC
 من O
 فقن O
@@ -29512,7 +29512,7 @@ ARTICLE
 والحكيم B-PERS
 أديب O
 . O
-ARTICLE
+
 . O
 مدريد B-LOC
 ـ O
@@ -29561,7 +29561,7 @@ ARTICLE
 الانترنت O
 امس O
 ' O
-اللجنة O REVISIT
+اللجنة O
 الانتخابية O
 لريال B-ORG
 مدريد I-ORG
@@ -29751,7 +29751,7 @@ ARTICLE
 قرار O
 نهائي O
 . O
-ARTICLE
+
 عواصم O
 - O
 وكالات: O
@@ -30145,7 +30145,7 @@ ARTICLE
 الميادين O
 " O
 . O
-ARTICLE
+
 أثبت O
 حزب B-ORG
 الله I-ORG
@@ -30988,8 +30988,8 @@ ARTICLE
 الجديد O
 ، O
 من O
-الحكومة O REVISIT
-والبرلمان O REVISIT
+الحكومة O
+والبرلمان O
 إلى O
 الجيش O
 والمؤسسة O
@@ -31415,7 +31415,7 @@ ARTICLE
 الرئيسية O
 - O
 مثل O
-الشيعة B-ORG REVISIT
+الشيعة B-ORG
 الاثني I-ORG
 عشرية I-ORG
 - O
@@ -31431,14 +31431,14 @@ ARTICLE
 
 ولم O
 يصطدم O
-الإسلام B-ORG REVISIT
+الإسلام B-ORG
 السني I-ORG
 بالتشيع B-ORG
 الاثني I-ORG
 عشري I-ORG
 إلا O
 خلال O
-الحقبة O REVISIT
+الحقبة O
 الصفوية O
 التي O
 شهدت O
@@ -31709,7 +31709,7 @@ ARTICLE
 تخطئ O
 الاتجاه O
 . O
-ARTICLE
+
 جاليليو B-PERS
 جاليلي I-PERS
 عالم O
@@ -31814,7 +31814,7 @@ ARTICLE
 الملاحظة O
 والتجربة O
 . O
-ARTICLE
+
 تفاعلت O
 قضية O
 مقتل O
@@ -32275,7 +32275,7 @@ ARTICLE
 ونمساوي O
 وفنلندي O
 . O
-ARTICLE
+
 أعلن O
 البنك B-ORG
 الآسيوي I-ORG
@@ -32435,7 +32435,7 @@ ARTICLE
 أيلول O
 2012 O
 . O
-ARTICLE
+
 استهل O
 النجم O
 الأميركي O
@@ -32682,7 +32682,7 @@ ARTICLE
 - O
 6 O
 . O
-ARTICLE
+
 تتسم O
 الأعمال O
 التليفزيونية O
@@ -33061,7 +33061,7 @@ ARTICLE
 أحداثه O
 خلال O
 فترة O
-الخلافة O REVISIT
+الخلافة O
 العباسية O
 وتظهر O
 فيه O
@@ -33101,7 +33101,7 @@ ARTICLE
 الأحداث O
 أيضا O
 . O
-ARTICLE
+
 رفض O
 أميتاب B-PERS
 باتشان I-PERS
@@ -33368,7 +33368,7 @@ ARTICLE
 في O
 العالم O
 . O
-ARTICLE
+
 الألفية O
 الثامنة O
 ق.م. O
@@ -33767,7 +33767,7 @@ ARTICLE
 . O
 
 يشير O
-سفر O REVISIT
+سفر O
 التكوين O
 بالعهد O
 القديم O
@@ -34343,7 +34343,7 @@ ARTICLE
 قرون O
 حتي O
 غزاها O
-الفرس B-ORG REVISIT
+الفرس B-ORG
 الساسانيين I-ORG
 وضموها O
 لهم O
@@ -34377,7 +34377,7 @@ ARTICLE
 لهذا O
 لم O
 يستطع O
-الفرس B-ORG REVISIT
+الفرس B-ORG
 غزوها O
 إى O
 بعض O
@@ -34412,7 +34412,7 @@ ARTICLE
 العراق B-LOC
 كان O
 ولاؤها O
-للفرس B-ORG REVISIT
+للفرس B-ORG
 . O
 
 وكانت O
@@ -34434,7 +34434,7 @@ ARTICLE
 وفلسطين B-LOC
 وكان O
 ولاؤها O
-للروم B-ORG REVISIT
+للروم B-ORG
 . O
 
 وكانت O
@@ -34487,7 +34487,7 @@ ARTICLE
 وكنت O
 القبائل O
 الرعوية O
-بالجزيرة B-LOC REVISIT
+بالجزيرة B-LOC
 ترحل O
 بقطعانها O
 وراء O
@@ -35362,7 +35362,7 @@ ARTICLE
 مما O
 جعلها O
 قبائل O
-شتيمنازلها O REVISIT
+شتيمنازلها O
 وضروبها O
 . O
 ولم O
@@ -35522,7 +35522,7 @@ ARTICLE
 أي O
 القبائل O
 تضع O
-الحجر B-MISC REVISIT
+الحجر B-MISC
 الأسود I-MISC
 في O
 مكانه O
@@ -35575,7 +35575,7 @@ ARTICLE
 ثوبه O
 ووضع O
 فوقه O
-الحجر B-MISC REVISIT
+الحجر B-MISC
 الأسود I-MISC
 وطلب O
 منهم O
@@ -35742,7 +35742,7 @@ ARTICLE
 التاجر O
 الأمين O
 . O
-ARTICLE
+
 عمان B-LOC
 - O
 البلقاء B-LOC
@@ -36248,7 +36248,7 @@ ARTICLE
 التصدي O
 لها O
 . O
-ARTICLE
+
 أمرت O
 قاضية O
 أميركية O
@@ -36712,7 +36712,7 @@ ARTICLE
 في O
 غزة B-LOC
 . O
-ARTICLE
+
 الرئيس O
 عباس B-PERS
 يتحدث O
@@ -36881,7 +36881,7 @@ ARTICLE
 مسؤولياته O
 " O
 . O
-ARTICLE
+
 الاحتلال O
 الإسرائيلي O
 يواصل O
@@ -37029,7 +37029,7 @@ ARTICLE
 مخيم O
 المدينة O
 . O
-ARTICLE
+
 قتل O
 عشرات O
 العراقيين O
@@ -37192,7 +37192,7 @@ ARTICLE
 بالشرطة O
 بسقوط O
 قذيفتي O
-هاون B-MISC REVISIT
+هاون B-MISC
 وانفجار O
 عبوة O
 ناسفة O
@@ -37677,7 +37677,7 @@ ARTICLE
 الرسمية O
 المعلنة O
 . O
-ARTICLE
+
 عرقلت O
 القيود O
 الأمنية O
@@ -37849,7 +37849,7 @@ ARTICLE
 عملية O
 بالمطارات O
 . O
-ARTICLE
+
 رفعت O
 مؤسسة O ID
 " O
@@ -38126,9 +38126,9 @@ A O
 عشر O
 الماضية O
 . O
-ARTICLE
+
 يخوض O
-منتخب O REVISIT
+منتخب O
 الكويت B-LOC
 مباراة O
 صعبة O
@@ -38441,7 +38441,7 @@ ARTICLE
 مهام O
 الإشراف O
 على O
-منتخب O REVISIT
+منتخب O
 جنوب B-LOC
 أفريقيا I-LOC
 التي O
@@ -38465,7 +38465,7 @@ ARTICLE
 مرات O
 بعد O
 إخفاق O
-مونديال O REVISIT
+مونديال O
 ألمانيا B-LOC
 . O
 
@@ -38512,7 +38512,7 @@ ARTICLE
 الدور O
 ربع O
 النهائي O
-لمونديال O REVISIT
+لمونديال O
 ألمانيا B-LOC
 بخسارتها O
 أمام O
@@ -38712,7 +38712,7 @@ ARTICLE
 الأحد O
 المقبل O
 . O
-ARTICLE
+
 أعرب O
 قائد O
 منتخب O
@@ -38889,7 +38889,7 @@ ARTICLE
 نفسه O
 " O
 . O
-ARTICLE
+
 لندن B-LOC
 : O
 محمد B-PERS
@@ -39102,7 +39102,7 @@ ARTICLE
 المتهم O
 الوحيد O
 في O
-هجمات O REVISIT
+هجمات O
 سبتمبر O
 ، O
 الذي O
@@ -39286,7 +39286,7 @@ ARTICLE
 » O
 و O FIX
 « O
-المهاجرون O REVISIT
+المهاجرون O
 » O
 خلال O
 سنوات O
@@ -39574,7 +39574,7 @@ ARTICLE
 البريطاني O
 الذين O
 اعتنقوا O
-الدين O REVISIT
+الدين O
 الاسلامي O
 ، O
 ولكنهم O
@@ -40421,7 +40421,7 @@ ARTICLE
 يسمع O
 الان O
 سوى O
-القرآن B-MISC REVISIT
+القرآن B-MISC
 الكريم O
 وبعض O
 الأناشيد O
@@ -41330,7 +41330,7 @@ ARTICLE
 نحو O
 التطرف O
 . O
-ARTICLE
+
 بيروت B-LOC
 : O
 سمير B-PERS
@@ -41726,7 +41726,7 @@ ARTICLE
 العام O
 1998 O
 تآكلت O
-الدولة O REVISIT
+الدولة O
 الروسية O
 وفقدت O
 سلطتها O
@@ -42720,7 +42720,7 @@ ARTICLE
 تتوقعه O
 السلطات O
 . O
-ARTICLE
+
 لندن B-LOC
 : O
 علي B-PERS
@@ -42862,7 +42862,7 @@ ARTICLE
 المهنا I-PERS
 ، O
 عضو O
-المكتب O REVISIT
+المكتب O
 السياسي O
 ل O
 ـ O
@@ -42960,7 +42960,7 @@ ARTICLE
 التحرش O
 الجنسي O
 . O
-ARTICLE
+
 بعد O
 مواسم O
 طويلة O
@@ -43092,7 +43092,7 @@ ARTICLE
 إبنيزر B-PERS
 نجوي I-PERS
 مدير O
-برنامج O REVISIT
+برنامج O
 الغذاء O
 العالمي O
 في O
@@ -43315,7 +43315,7 @@ ARTICLE
 , O
 مما O
 اضطر O
-السلطات O REVISIT
+السلطات O
 المصرية O
 إلي O
 السحب O
@@ -43409,7 +43409,7 @@ ARTICLE
 الأوضاع O
 هناك O
 . O
-ARTICLE
+
 مدريد B-LOC
 ـ O
 د B-ORG
@@ -43503,7 +43503,7 @@ ARTICLE
 وموسيقيا O
 وإنسانا O
 . O
-ARTICLE
+
 لندن B-LOC
 ، O
 القاهرة B-LOC
@@ -43614,7 +43614,7 @@ ARTICLE
 يعني O
 أن O
 دولة O
-الطائف B-LOC REVISIT
+الطائف B-LOC
 ليست O
 قوية O
 وغير O
@@ -43973,7 +43973,7 @@ ARTICLE
 ستثار O
 امام O
 رئيس O
-لجنة O REVISIT
+لجنة O
 التحقيق O
 الدولية O
 في O
@@ -44116,7 +44116,7 @@ ARTICLE
 المخاطر O
 " O
 . O
-ARTICLE
+
 أنقرة B-LOC
 - O
 اف B-ORG
@@ -44367,7 +44367,7 @@ ARTICLE
 أكثر O
 عنفا O
 من O
-الحكومة O REVISIT
+الحكومة O
 والجيش O
 ، O
 أن O
@@ -44512,7 +44512,7 @@ ARTICLE
 الحرب O
 الأهلية O
 . O
-ARTICLE
+
 نزار B-PERS
 توفيق I-PERS
 القباني I-PERS
@@ -45417,7 +45417,7 @@ AK-biyik O
 : O
 1 O
 - O
-الموسوعة O REVISIT
+الموسوعة O
 العربية O
 2001 O
 - O
@@ -45469,7 +45469,7 @@ CD O
 269 O
 ) O
 . O
-ARTICLE
+
 محمد B-PERS
 بنيس I-PERS
 شاعر O
@@ -45608,7 +45608,7 @@ ARTICLE
 للشعر O
 العربي O
 . O
-ARTICLE
+
 ميثاق O
 من O
 أجل O
@@ -46341,7 +46341,7 @@ ARTICLE
 والتاريخية O
 والوطنية O
 . O
-ARTICLE
+
 سخط O
 ومعارضة O
 لقيادة O
@@ -46721,7 +46721,7 @@ ARTICLE
 في O
 حقهم O
 . O
-ARTICLE
+
 تمكنت O
 الشرطة O
 القضائية O
@@ -46978,7 +46978,7 @@ ARTICLE
 الهجرة O
 السرية O
 . O
-ARTICLE
+
 الحرب O
 النووية O
 والكارثة O
@@ -48113,7 +48113,7 @@ Yorker I-ORG
 رأي O
 لايحتج O للشبان I-MISC
 . O
-ARTICLE
+
 أحرز O
 البطل O
 المغربي O
@@ -48337,7 +48337,7 @@ ARTICLE
 قبل O
 سنة O
 . O
-ARTICLE
+
 يواجه O
 الرئيس O
 العراقي O
@@ -48802,7 +48802,7 @@ ARTICLE
 التحليق O
 فيها O
 . O
-ARTICLE
+
 من O
 ويكيبيديا B-MISC
 , O
@@ -49282,7 +49282,7 @@ ARTICLE
 إلى I-MISC
 التحليل I-MISC
 النفسي I-MISC
-) O ARTICLE
+) O
 هذه O
 مقالة O
 عن O
@@ -51351,7 +51351,7 @@ ARTICLE
 الأسود O
 الببريّة O
 . O
-ARTICLE
+
 من O
 ويكيبيديا B-MISC
 , O
@@ -51968,7 +51968,7 @@ Pygmalion O
 تريد O
 إيقاف O
 الشر O
-دبي B-LOC ARTICLE
+دبي B-LOC
 - O
 الدوحة B-LOC
 والصيف O
@@ -52499,7 +52499,7 @@ Pygmalion O
 على O
 ذويهم O
 . O
-ARTICLE
+
 تسعى O
 ايران B-LOC
 بعد O
@@ -53070,7 +53070,7 @@ ARTICLE
 رياضات O
 مائية O
 . O
-ARTICLE
+
 رقصة O
 لشعب O
 الماوري B-LOC
@@ -53252,7 +53252,7 @@ ARTICLE
 المحيط B-LOC
 الهادي B-LOC
 . O
-ARTICLE
+
 الفرنسي O
 جيولي B-PERS
 صاحب O
@@ -53402,7 +53402,7 @@ ARTICLE
 ببطولة O
 الكأس O
 . O
-ARTICLE
+
 كشفت O
 دراسة O
 كندية O
@@ -53665,7 +53665,7 @@ ARTICLE
 العالم O
 " O
 . O
-ARTICLE
+
 أعلن O
 المتحف B-LOC
 الوطني I-LOC
@@ -53819,7 +53819,7 @@ ARTICLE
 في O
 مزاد O
 . O
-ARTICLE
+
 الإعصار O
 كاترينا B-MISC
 حول O
@@ -54130,7 +54130,7 @@ ARTICLE
 الأولى O
 للإعصار O
 . O
-ARTICLE
+
 الإيرانيون O
 يناهضون O
 سياسات O
@@ -54287,7 +54287,7 @@ ARTICLE
 هامشهري B-ORG
 المحافظة O
 . O
-ARTICLE
+
 مارس O
 مهنة O
 الطب O
@@ -54822,7 +54822,7 @@ ARTICLE
 » O
 ! O
 . O
-ARTICLE
+
 من O
 فتاة O
 شاركت O
@@ -57628,7 +57628,7 @@ ARTICLE
 ليس O
 أميراً O
 . O
-ARTICLE
+
 عدسة: O
 وي B-PERS
 خاي I-PERS
@@ -61807,7 +61807,7 @@ ARTICLE
 الاستطلاع O
 ممكناً O
 . O
-ARTICLE
+
 تصوير: O
 طالب B-PERS
 الحسيني I-PERS
@@ -66226,7 +66226,7 @@ O O
 قضيناها O
 هناك O
 . O
-ARTICLE
+
 قالت O
 لنا O
 والحديث O
@@ -66370,7 +66370,7 @@ ARTICLE
 خلال O
 فترة O
 التبعية O
-للاستعمار O REVISIT
+للاستعمار O
 الإنجليزي O
 ، O
 وهي O
@@ -66620,7 +66620,7 @@ ARTICLE
 وهما O
 من O
 مسئولية O
-الحكومة O REVISIT
+الحكومة O
 المركزية O
 ويكون O
 لها O
@@ -69214,7 +69214,7 @@ ARTICLE
 المعروفة O
 باسم O
 " O
-عصر B-MISC REVISIT
+عصر B-MISC
 هوسيا I-MISC
 " O
 والذي O
@@ -69812,7 +69812,7 @@ ARTICLE
 المنزل O
 ويسمونها O
 " O
-داي B-MISC REVISIT
+داي B-MISC
 دونج I-MISC
 " O
 وإذا O
@@ -70203,7 +70203,7 @@ ARTICLE
 الدينية O
 في O
 " O
-تين B-MISC REVISIT
+تين B-MISC
 هاو I-MISC
 " O
 ، O
@@ -72045,7 +72045,7 @@ ARTICLE
 إلى O
 الأمام O
 . O
-ARTICLE
+
 مقاتلو O
 حزب B-ORG
 الله I-ORG
@@ -72795,7 +72795,7 @@ ARTICLE
 لدى O
 الدولة O
 . O
-ARTICLE
+
 فجر O
 فريق O
 شيفلد B-ORG
@@ -73058,7 +73058,7 @@ ARTICLE
 نقطة O
 واحدة O
 . O
-ARTICLE
+
 الرئيس O
 الإيراني O
 أحمدي B-PERS
@@ -73211,7 +73211,7 @@ ARTICLE
 العالم O
 الإسلامي O
 . O
-ARTICLE
+
 إنزال O
 فاشل O
 ومقتل O
@@ -74597,7 +74597,7 @@ ARTICLE
 الامن O
 الداخلي O
 وقائد O
-قوات O REVISIT
+قوات O
 الطوارىء O
 الدولية O
 الان B-PERS
@@ -74986,7 +74986,7 @@ ARTICLE
 ، O
 كما O
 اعلنت O
-الرئاسة O REVISIT
+الرئاسة O
 الفرنسية O
 . O
 
@@ -75201,7 +75201,7 @@ ARTICLE
 واضاف O
 ان O
 الحكومة O
-ورئاسة O REVISIT
+ورئاسة O
 الجمهورية O
 تدرسان O
 المسألة O
@@ -75624,7 +75624,7 @@ ARTICLE
 الذي O
 حصل O
 . O
-ARTICLE
+
 دبي B-LOC
 - O
 “ O
@@ -76040,7 +76040,7 @@ ARTICLE
 للعام O
 الحالي O
 . O
-ARTICLE
+
 قال O
 الباحث O
 العلمي O
@@ -77948,7 +77948,7 @@ moon O
 نفس O
 اللحظة O
 . O
-ARTICLE
+
 من O
 ويكيبيديا B-MISC
 , O
@@ -78158,7 +78158,7 @@ ARTICLE
 في O
 حوزتها O
 . O
-ARTICLE
+
 الأمم B-ORG
 المتحدة I-ORG
 هي O
@@ -78543,7 +78543,7 @@ ARTICLE
 الامريكي I-ORG
 على O
 تصديق O
-ميثاق O REVISIT
+ميثاق O
 الامم B-ORG
 المتحدة I-ORG
 في O
@@ -78935,7 +78935,7 @@ ARTICLE
 منها O
 هي O
 " O
-اللجنة O REVISIT
+اللجنة O
 الاولى O
 للجمعية O
 العامة O
@@ -78944,7 +78944,7 @@ ARTICLE
 " O
 و O FIX
 " O
-لجنة O REVISIT
+لجنة O
 الأمم B-ORG
 المتحدة I-ORG
 لنزع O
@@ -79300,7 +79300,7 @@ ARTICLE
 عام O
 1988 O
 استلمت O
-قوات O REVISIT
+قوات O
 حفظ O
 السلام O
 التابعة O
@@ -79430,7 +79430,7 @@ ARTICLE
 بانتظام O
 . O
 ان O
-لجنة O REVISIT
+لجنة O
 حقوق O
 الإنسان O
 التابعة O
@@ -79442,7 +79442,7 @@ UNHRC O
 ، O
 تحت O
 رعاية O
-المجلس O REVISIT
+المجلس O
 الاقتصادي O
 والاجتماعي O
 التابع O
@@ -79532,7 +79532,7 @@ UNHRC O
 محكمة B-ORG
 العدل I-ORG
 الدولية I-ORG
-ضربت O ARTICLE
+ضربت O
 فيضانات O
 جديدة O
 منطقة O
@@ -79780,7 +79780,7 @@ UNHRC O
 لهذا O
 الخطر O
 . O
-احتل O ARTICLE
+احتل O
 مسلحون O
 صوماليون O
 مدعومون O
@@ -79894,7 +79894,7 @@ UNHRC O
 اعتداء O
 على O
 أراضي O
-الشعب O REVISIT
+الشعب O
 الصومالي O
 " O
 وهو O
@@ -80252,7 +80252,7 @@ UNHRC O
 للصومال B-LOC
 ، O
 واتهم O
-الحكومة O REVISIT
+الحكومة O
 الانتقالية O
 في O
 بيداوا O
@@ -80292,7 +80292,7 @@ UNHRC O
 على O
 حكومته O
 . O
-ARTICLE
+
 متابعة O
 - O
 صلاح B-PERS
@@ -80455,7 +80455,7 @@ ARTICLE
 الأمور O
 المادية O
 . O
-ARTICLE
+
 فلسطين B-LOC
 المحتلة O
 - O
@@ -81120,7 +81120,7 @@ ARTICLE
 الضفة B-LOC
 الغربية I-LOC
 . O
-ARTICLE
+
 كاتمندو B-LOC
 - O
 د B-ORG
@@ -81164,7 +81164,7 @@ ARTICLE
 وقال O
 أحد O
 أعضاء O
-مجلس O REVISIT
+مجلس O
 الوزراء O
 إن O
 رئيس O
@@ -81394,7 +81394,7 @@ ARTICLE
 هذه O
 الخسائر O
 . O
-ARTICLE
+
 عامل O
 سيمافور O
 أعطي O
@@ -82087,7 +82087,7 @@ ARTICLE
 في O
 الحادث O
 . O
-ARTICLE
+
 كتب O
 : O
 هشام B-PERS
@@ -82172,7 +82172,7 @@ ARTICLE
 واشتهر O
 في O
 زمن O
-الدولة O REVISIT
+الدولة O
 المملوكية O
 . O
 
@@ -82321,7 +82321,7 @@ ARTICLE
 فتكت O
 به O
 الوجنات O
-والأحداق O ARTICLE
+والأحداق O
 لندن B-LOC
 - O
 د B-ORG
@@ -82531,7 +82531,7 @@ ARTICLE
 المباراة O
 ' O
 . O
-ARTICLE
+
 ساو B-LOC
 باولو I-LOC
 ( O
@@ -82629,7 +82629,7 @@ ARTICLE
 ذكرت O
 منذ O
 نهاية O
-مونديال O REVISIT
+مونديال O
 المانيا B-LOC
 الشهر O
 الماضي O
@@ -83027,7 +83027,7 @@ ARTILCE
 الاراضي O
 الفلسطينية O
 . O
-ARTICLE
+
 كييف B-LOC
 - O
 د B-ORG
@@ -83295,7 +83295,7 @@ ARTICLE
 لكل O
 الاوكرانيين O
 . O
-ARTICLE
+
 لقي O
 جندي O
 إسرائيلي O
@@ -83909,7 +83909,7 @@ ARTICLE
 عبر O
 الحدود O
 . O
-ARTICLE
+
 هذه O
 اراء O
 بعض O
@@ -84132,7 +84132,7 @@ ARTICLE
 الطرفين O
 فالجانبين O
 بشر O
-واصل O ARTICLE
+واصل O
 العداؤون O
 المغاربة O
 المشاركون O
@@ -84576,7 +84576,7 @@ ARTICLE
 5000 O
 متر O
 . O
-ARTICLE
+
 إسرائيل B-LOC
 اغتالت O
 شهداء O
@@ -84977,7 +84977,7 @@ ARTICLE
 المسدود O
 خلال O
 اجتماع O
-الجمعية B-ORG REVISIT
+الجمعية B-ORG
 العامة I-ORG
 للأمم B-ORG
 المتحدة I-ORG
@@ -85029,13 +85029,13 @@ ARTICLE
 المتحدة I-ORG
 " O
 . O
-ARTICLE
+
 الولايات B-LOC
 المتحدة I-LOC
 واليونان B-LOC
 لنصف O
 نهائي O
-مونديال O REVISIT
+مونديال O
 السلة O
 الأميركي O
 كارميلو B-PERS
@@ -85101,7 +85101,7 @@ ARTICLE
 من O
 ألمانيا B-LOC
 ثالثة O
-المونديال O REVISIT
+المونديال O
 السابق O
 ووصيفة O
 أمم O
@@ -85323,7 +85323,7 @@ ARTICLE
 المباراة O
 عاطف B-PERS
 فتحي I-PERS
-- O ARTICLE
+- O
 صالح B-PERS
 الحمصي I-PERS
 : O
@@ -85939,7 +85939,7 @@ ARTICLE
 لسهم O
 دبي B-ORG
 الإسلامي I-ORG
-إبراهيم B-PERS ARTICLE
+إبراهيم B-PERS
 العسم I-PERS
 : O
 أكد O
@@ -87067,7 +87067,7 @@ ARTICLE
 في O
 البطولة O
 . O
-ARTICLE
+
 جامعة B-ORG
 السلطان I-ORG
 قابوس I-ORG
@@ -87324,7 +87324,7 @@ ARTICLE
 الجامعات O
 الخليجية O
 . O
-ARTICLE
+
 شمال O
 الباطنة B-LOC
 تناقش O
@@ -87436,7 +87436,7 @@ ARTICLE
 محمد B-PERS
 الفايد I-PERS
 . O
-ARTICLE
+
 ( O
 أ B-ORG
 ف I-ORG
@@ -87500,7 +87500,7 @@ ARTICLE
 هذا O
 الدواء O
 . O
-ARTICLE
+
 ( O
 أ B-ORG
 ش I-ORG
@@ -87724,7 +87724,7 @@ ARTICLE
 لتوفيرها O
 بمحافظات O
 مصر B-LOC
-وصل O ARTICLE
+وصل O
 الرئيس O
 اوغو B-PERS
 شافيز I-PERS
@@ -88266,7 +88266,7 @@ ARTICLE
 تل B-LOC
 أبيب I-LOC
 . O
-ARTICLE
+
 يعد O
 الروائي O
 المصري O
@@ -88585,7 +88585,7 @@ ARTICLE
 عمل O
 كاتبا O
 في O
-إدارة O REVISIT
+إدارة O
 جامعة B-ORG
 القاهرة I-ORG
 حتى O
@@ -89964,7 +89964,7 @@ ARTICLE
 سنوات O
 وظيفته O
 تولى O
-ادارة O REVISIT
+ادارة O
 الرقابة O
 على O
 المصنفات O
@@ -90022,7 +90022,7 @@ ARTICLE
 كل O
 خميس O
 بصحيفة O ID
-الاهرام B-ORG ARTICLE
+الاهرام B-ORG
 أنان B-PERS
 في O
 دمشق B-LOC
@@ -90665,7 +90665,7 @@ ARTICLE
 الولايات B-LOC
 المتحدة I-LOC
 . O
-ARTICLE
+
 حالوتس B-PERS
 يستدعي O
 مائة O
@@ -90935,7 +90935,7 @@ ARTICLE
 بيرتس I-PERS
 ودان B-PERS
 حالوتس I-PERS
-My O ARTICLE
+My O
 Search O
 History O
 أحدث O
@@ -92046,12 +92046,12 @@ Didactique I-ORG
 في O
 قطاع O
 التعليم O
-كتب O ARTICLE
+كتب O
 ـ O
 ع B-PERS FIX
 ـ O
 ادل O
-ش O REVISIT
+ش O
 ـ O
 فيق O
 د O
@@ -92244,7 +92244,7 @@ Didactique I-ORG
 للشئون O
 الافريقية O
 . O
-ARTICLE
+
 وفاة O
 محمد B-PERS
 عبدالوهاب I-PERS
@@ -92483,7 +92483,7 @@ ARTICLE
 الصبر O
 والسلوان O
 . O
-ARTICLE
+
 الدستور O
 - O
 ناريمان B-PERS
@@ -93080,7 +93080,7 @@ ARTICLE
 يوفرها O
 لنا O
 . O
-ARTICLE
+
 استنبول B-LOC
 - O
 قنا B-ORG
@@ -93311,7 +93311,7 @@ ARTICLE
 الحكم I-ORG
 الانتقالي I-ORG
 العراق B-LOC
-متابعة O ARTICLE
+متابعة O
 - O
 بلال B-PERS
 قناوي I-PERS
@@ -93733,7 +93733,7 @@ ARTICLE
 ولبلدهم O
 كدولة O
 منظمة O
-ذهب B-MISC ARTICLE 
+ذهب B-MISC 
 مع I-MISC
 الريح I-MISC
 فيلم O
@@ -93940,7 +93940,7 @@ ARTICLE
 هاملتون I-PERS
 قمة O
 الاثارة O
-في O ARTICLE
+في O
 ليلة O
 السوبر O
 الدوحة B-LOC
@@ -94145,7 +94145,7 @@ ARTICLE
 في O
 كل O
 موسم O
-نيويورك B-LOC ARTICLE
+نيويورك B-LOC
 - O
 الخرطوم B-LOC
 - O
@@ -95057,7 +95057,7 @@ ARTICLE
 استئناف O
 العمليات O
 الحربية O
-الدول O ARTICLE
+الدول O
 الغربية O
 وضعت O
 لائحة O
@@ -95654,7 +95654,7 @@ ARTICLE
 تدريجية O
 " O
 . O
-ـ OARTICLE
+ـ O
 وكالات O
 ـ O
 قبل O
@@ -96260,7 +96260,7 @@ ARTICLE
 هذا O
 الخصوص O
 . O
-ARTICLE
+
 الدوحة B-LOC
 - O
 الراية B-ORG
@@ -97118,7 +97118,7 @@ ARTICLE
 المتغيرة O
 بشكل O
 أفضل O
-عادل B-PERS ARTICLE
+عادل B-PERS
 إمام I-PERS
 : O
 لم O
@@ -97207,7 +97207,7 @@ ARTICLE
 النخبة O
 وللكلام O
 عن O
-عصر O REVISIT
+عصر O
 ما O
 بعد O
 الحداثة O
@@ -98119,7 +98119,7 @@ ARTICLE
 يعيش O
 فيها O
 . O
-ARTICLE
+
 مدحت B-PERS
 صالح I-PERS
 يغني O
@@ -98240,7 +98240,7 @@ ARTICLE
 سير O
 التحقيق O
 . O
-ARTICLE
+
 أميركا B-LOC
 تحترق O
 وبوش B-PERS
@@ -99478,7 +99478,7 @@ ARTICLE
 هجمات O
 مشابهة O
 . O
-ARTICLE
+
 فيرجسون B-PERS
 يختار O
 خليفته O
@@ -99702,7 +99702,7 @@ ARTICLE
 منتخب B-ORG
 هولندا I-ORG
 . O
-ARTICLE
+
 القاعدة B-ORG
 تدعو O
 أميركا B-LOC
@@ -100077,7 +100077,7 @@ ARTICLE
 من O
 الذكرى O
 الخامسة O
-لهجمات O REVISIT
+لهجمات O
 11 O
 سبتمبر O
 / O
@@ -100085,7 +100085,7 @@ ARTICLE
 2001 O
 بالولايات B-LOC
 المتحدة I-LOC
-بريطانيا B-LOC ARTICLE
+بريطانيا B-LOC
 توقف O
 16 O
 شخصا O
@@ -100336,7 +100336,7 @@ BBC B-ORG
 أو O
 التشجيع O
 . O
-ARTICLE
+
 إيران B-LOC
 تستقبل O
 أنان B-PERS
@@ -100688,7 +100688,7 @@ ARTICLE
 الإيرانيون O
 " O
 . O
-ARTICLE
+
 فوزان O
 لفرنسا B-LOC
 وإنجلترا B-LOC
@@ -100786,7 +100786,7 @@ ARTICLE
 رسمية O
 لهم O
 بعد O
-المونديال B-MISC REVISIT
+المونديال B-MISC
 وتحت O
 قيادة O
 المدرب O
@@ -101113,7 +101113,7 @@ ARTICLE
 المجموعة O
 الأولى O
 . O
-ARTICLE
+
 انتصارات O
 لمصر B-LOC
 والمغرب B-LOC
@@ -101947,7 +101947,7 @@ ARTICLE
 - O
 1 O
 . O
-ARTICLE
+
 دار O
 نشر O
 في O
@@ -102213,7 +102213,7 @@ ARTICLE
 ابتداء O
 من O
 عهد O
-دولة O REVISIT
+دولة O
 سبأ B-LOC
 التي O
 ورد O
@@ -102332,7 +102332,7 @@ ARTICLE
 حجازي I-PERS
 وغيرهم O
 . O
-ARTICLE
+
 6 O
 مشروعات O
 جديدة O
@@ -102637,7 +102637,7 @@ ARTICLE
 عمل O
 للمصريين O
 . O
-ARTICLE
+
 وزير O
 المالية O
 : O
@@ -103130,7 +103130,7 @@ ARTICLE
 يوليو O
 ـ O
 مارس O
-البلاد O ARTICLE
+البلاد O
 تحتفل O
 اليوم O
 بالذكري O
@@ -103802,7 +103802,7 @@ ARTICLE
 العربية O
 والدولية O
 . O
-ARTICLE
+
 وزراء O
 الاقتصاد O
 والتجارة O
@@ -103839,7 +103839,7 @@ ARTICLE
 المندوبين O
 وكبار O
 المسئولين O
-بوزارات O REVISIT
+بوزارات O
 الاقتصاد O
 والتجارة O
 والمالية O
@@ -103910,7 +103910,7 @@ ARTICLE
 ضرورة O
 زيادة O
 فعالية O
-منطقة O REVISIT
+منطقة O
 التجارة O
 الحرة O
 العربية O
@@ -104067,7 +104067,7 @@ ARTICLE
 أعمال O
 الدورة O
 والخاص O
-بمنطقة O REVISIT
+بمنطقة O
 التجارة O
 الحرة O
 العربية O
@@ -104089,7 +104089,7 @@ ARTICLE
 توافي O
 الجزائر B-LOC
 وموريتانيا B-LOC
-الامانة O REVISIT
+الامانة O
 العامة O
 للجامعة B-ORG
 العربية I-ORG
@@ -104101,14 +104101,14 @@ ARTICLE
 وأشارت O
 إلي O
 أن O
-الامانة O REVISIT
+الامانة O
 الفنية O
 لمنطقة O
 التجارة O
 الحرة O
 العربية O
 الكبري O
-بالامانة O REVISIT
+بالامانة O
 العامة O
 للجامعة B-ORG
 العربية I-ORG
@@ -104345,7 +104345,7 @@ ARTICLE
 وفرق O
 العمل O
 . O
-ARTICLE
+
 &#0 O
 ؛ O
 نصر B-PERS
@@ -105049,7 +105049,7 @@ ARTICLE
 ألونسو I-PERS
 بطل O
 العالم O
-لسباقات O REVISIT
+لسباقات O
 سيارات O
 فورمولا O
 واحد O
@@ -105287,7 +105287,7 @@ ARTICLE
 نهاية O
 الموسم O
 . O
-ARTICLE
+
 توقعات O
 بانخفاض O
 نمو O
@@ -105889,7 +105889,7 @@ ARTICLE
 المتحدة I-LOC
 الأكبر O
 بالعالم O
-باريس B-LOC ARTICLE
+باريس B-LOC
 تعلن O
 دعمها O
 سولانا B-PERS
@@ -106405,7 +106405,7 @@ ARTICLE
 في O
 مصر B-LOC
 . O
-ARTICLE
+
 نرويجي O
 يصل O
 الدوحة B-LOC
@@ -106945,7 +106945,7 @@ ARTICLE
 تقتلني O
 ! O
 ! O
-يديعوت B-ORG ARTICLE
+يديعوت B-ORG
 قالت O
 إن O
 اللقاء O
@@ -107220,7 +107220,7 @@ ARTICLE
 حزيران O
 1967 O
 . O
-ARTICLE
+
 الهجمات O
 تحصد O
 مزيدا O
@@ -107829,7 +107829,7 @@ ARTICLE
 مصدر O
 مستقل O
 . O
-ARTICLE
+
 الرئيس O
 صالح B-PERS
 تعهد O
@@ -108023,7 +108023,7 @@ ARTICLE
 عن O
 مسارها O
 . O
-ARTICLE
+
 يحاول O
 أن O
 ينأى O
@@ -108280,7 +108280,7 @@ ARTICLE
 من O
 الآن O
 . O
-ARTICLE
+
 محمد B-PERS
 عبد I-PERS
 الفتاح I-PERS
@@ -108342,7 +108342,7 @@ ARTICLE
 الفائز O
 بذهبية O
 في O
-أولمبياد O REVISIT
+أولمبياد O
 أثينا B-LOC
 2004 O
 حيث O
@@ -108404,7 +108404,7 @@ ARTICLE
 لإحراز O
 ميداليات O
 في O
-أولمبياد O REVISIT
+أولمبياد O
 بكين B-LOC
 2008 O
 . O
@@ -108428,7 +108428,7 @@ ARTICLE
 للفوز O
 بميدالية O
 في O
-أولمبياد O REVISIT
+أولمبياد O
 بكين B-LOC
 مع O
 عبد B-PERS
@@ -108472,7 +108472,7 @@ ARTICLE
 المصارعة O
 الحرة O
 . O
-ARTICLE
+
 كافو B-PERS
 مع O
 رئيس O
@@ -108547,7 +108547,7 @@ ARTICLE
 لمنتخب O
 البرازيل B-LOC
 في O
-المونديال O REVISIT
+المونديال O
 حيث O
 قدم O
 عروضا O
@@ -108569,7 +108569,7 @@ ARTICLE
 وبعد O
 الإخفاق O
 في O
-المونديال O REVISIT
+المونديال O
 استقال O
 المدرب O
 البرازيلي O
@@ -108680,7 +108680,7 @@ ARTICLE
 1994 O
 و1998 O
 . O
-ARTICLE
+
 رود B-PERS
 فان I-PERS
 نيستلروي I-PERS
@@ -108989,7 +108989,7 @@ ARTILCE
 ! O
 " O
 . O
-ARTICLE
+
 أوبرا B-PERS
 وينفري I-PERS
 اشتهرت O
@@ -109492,7 +109492,7 @@ XM I-ORG
 الزراعي O
 والغذائي O
 . O
-ARTICLE
+
 وافقت O
 الحكومة B-ORG
 الصينية I-ORG
@@ -109684,7 +109684,7 @@ ARTICLE
 إلى O
 الصين O
 . O
-ARTICLE
+
 أعلنت O
 شركة O ID
 نوكيا B-ORG
@@ -110126,7 +110126,7 @@ WiMax O
 إنتاج O
 مايكروسوفت B-ORG
 . O
-ARTICLE
+
 تراجع O
 اليورو B-MISC
 مقابل O
@@ -110390,7 +110390,7 @@ ARTICLE
 46ر116 O
 ين B-MISC
 . O
-عواصم O ARTICLE
+عواصم O
 - O
 وكالات O
 : O
@@ -110864,7 +110864,7 @@ ARTICLE
 الخام O
 الخفيف O
 " O
-لايت B-MISC REVISIT
+لايت B-MISC
 سويت B-MISC
 كرود B-MISC
 " O
@@ -110911,7 +110911,7 @@ ARTICLE
 60 O
 دولارا B-MISC
 . O
-ARTICLE
+
 بيروت B-LOC
 ( O
 اف B-ORG
@@ -111279,7 +111279,7 @@ ARTICLE
 السلطة O
 الحالية O
 . O
-ARTICLE
+
 وصف O
 بيان O
 لهيئة B-ORG
@@ -111553,10 +111553,10 @@ ARTICLE
 قد O
 غرب O
 فيها O
-القمر O REVISIT
+القمر O
 قبل O
 غروب O
-الشمس O REVISIT
+الشمس O
 ، O
 لافتا O
 الى O
@@ -111655,7 +111655,7 @@ ARTICLE
 بدء O
 رمضان O
 . O
-ARTICLE
+
 هشام B-PERS
 بن I-PERS
 ثابت I-PERS
@@ -112545,7 +112545,7 @@ ARTICLE
 أجلت O
 ( O
 . O
-ARTICLE
+
 رايس B-PERS
 قالت O
 إن O
@@ -112872,7 +112872,7 @@ ARTICLE
 خطيرة O
 " O
 . O
-ARTICLE
+
 المالكي B-PERS
 تلقى O
 دعم O
@@ -113215,7 +113215,7 @@ ARTICLE
 أي O
 عقود O
 . O
-ARTICLE
+
 قال O
 المنتدى B-ORG
 الاقتصادي I-ORG
