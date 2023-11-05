@@ -33323,7 +33323,7 @@ motion I-MISC
 لحسن O
 النوايا O
 لصندوق B-ORG
-الأمم O-ORG
+الأمم I-ORG
 المتحدة I-ORG
 لرعاية I-ORG
 الطفولة I-ORG
