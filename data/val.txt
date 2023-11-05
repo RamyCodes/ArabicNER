@@ -426,7 +426,7 @@
 والفرنسي O
 بيولي B-PERS
 . O
-ARTICLE
+
 هيوستون B-LOC
 - O
 رويترز B-ORG
@@ -656,7 +656,7 @@ ARTICLE
 مليون O
 دولار B-MISC
 . O
-ARTICLE
+
 بيروت B-LOC
 - O
 رويترز B-ORG
@@ -1033,7 +1033,7 @@ ARTICLE
 في O
 تونس B-LOC
 . O
-ARTICLE
+
 الدوحة B-LOC
 - O
 الراية B-ORG
@@ -1188,7 +1188,7 @@ ARTICLE
 هذا O
 الطرح O
 . O
-ARTICLE
+
 الدوحة B-LOC
 - O
 ق O
@@ -1337,7 +1337,7 @@ ARTICLE
 مرة O
 سنويا O
 . O
-ARTICLE
+
 انقرة B-LOC
 - O
 ( O
@@ -1761,7 +1761,7 @@ ARTICLE
 غالبية O
 كردية O
 . O
-ARTICLE
+
 طوكيو B-LOC
 - O
 ( O
@@ -2068,7 +2068,7 @@ ARTICLE
 جرائم O
 حرب O
 . O
-ARTICLE
+
 موسكو B-LOC
 - O
 مكتب O
@@ -2471,7 +2471,7 @@ ARTICLE
 عملية O
 التسوية O
 . O
-ARTICLE
+
 نيويورك B-LOC
 ( O
 الامم B-ORG
