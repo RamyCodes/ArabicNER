@@ -224,7 +224,7 @@
 في O
 ألمانيا B-LOC
 . O
-
+ARTICLE
 رجح O
 الممثل O
 الأعلى O
@@ -2286,7 +2286,7 @@
 على O
 حياتهم O
 . O
-
+ARTICLE
 قررت O
 الحكومة B-ORG
 المصرية I-ORG
@@ -2489,7 +2489,7 @@
 المنتجات O
 البترولية O
 . O
-
+ARTICLE
 ارتفع O
 عدد O
 ضحايا O
@@ -2921,7 +2921,7 @@
 تنقية O
 المياه O
 عرض O
-السناتور O 
+السناتور O ARTICLE
 الجمهوري O
 ، O
 ارلن B-PERS
@@ -3414,7 +3414,7 @@
 لمحاكمة O
 المعتقلين O
 في O
-غوانتانامو B-LOC 
+غوانتانامو B-LOC ARTICLE
 الدوحة B-LOC
 - O
 بيروت B-LOC
@@ -3852,7 +3852,7 @@
 وحزب B-ORG
 الله I-ORG
 . O
-
+ARTICLE
 بغداد B-LOC
 ( O
 اف B-ORG
@@ -4916,7 +4916,7 @@
 اسلحة O
 الدمار O
 الشامل O
-ليجازبي B-LOC 
+ليجازبي B-LOC ARTICLE
 سيتي I-LOC
 ( O
 الفلبين B-LOC
@@ -5220,7 +5220,7 @@
 ثوران O
 كبير O
 . O
-
+ARTICLE
 أعلنت O
 نوكيا B-ORG
 الفنلندية O
@@ -5391,7 +5391,7 @@
 مبيعات O
 قياسية O
 . O
-
+Article
 تحنضن O
 مدينة O
 أكادير B-LOC
@@ -5994,7 +5994,7 @@
 من O
 الشركاء O
 . O
-
+ARTICLE
 بحثت O
 القمة O
 المصرية O
@@ -6295,7 +6295,7 @@
 المواقف O
 العربية O
 . O
-
+ARTICLE
 يعتقد O
 ان O
 بها O
@@ -8158,7 +8158,7 @@ canoes O
 1591 O
 م O
 . O
-
+ARTICLE
 اختتمت O
 اعمال O
 الاجتماع O
@@ -8843,7 +8843,7 @@ canoes O
 طيلة O
 فترة O
 انعقاد O
-الاجتماع. O 
+الاجتماع. O ARTICLE
 عواصم O
 - O
 وكالات: O
@@ -9514,7 +9514,7 @@ canoes O
 جدا O
 " O
 . O
-
+ARTICLE
 تشارلز B-PERS
 الأول I-PERS
 ( O
@@ -9826,7 +9826,7 @@ I I-PERS
 1649 O
 م O
 . O
-
+ARTICLE
 محمد B-PERS
 بن I-PERS
 عبد I-PERS
@@ -10457,7 +10457,7 @@ Rif I-ORG
 عصرية O
 بدستورها O
 و O FIX
-برلمان O 
+برلمان O ARTICLE
 استبعدت O
 وزيرة O
 الخارجية B-ORG
@@ -10947,7 +10947,7 @@ Rif I-ORG
 ممر O
 الإجلاء O
 . O
-
+ARTICLE
 يصل O
 الرئيس O
 الفنزويلي O
@@ -11654,7 +11654,7 @@ Rif I-ORG
 أطباء O
 نفسانيين O
 . O
-
+ARTICLE
 الدار B-LOC
 البيضاء I-LOC
 - O
@@ -12269,7 +12269,7 @@ Rif I-ORG
 الاسلامية O
 العريقة O
 . O
-
+ARTICLE
 قال O
 البنك B-ORG
 الافريقي I-ORG
@@ -12398,7 +12398,7 @@ Rif I-ORG
 الامن O
 الغذائي O
 . O
-
+ARTICLE
 طوكيو B-LOC
 - O
 رويترز B-ORG
@@ -12545,7 +12545,7 @@ Rif I-ORG
 في O
 اسيا B-LOC
 . O
-
+ARTICLE
 دينيس B-PERS
 هوانغ I-PERS
 من O
@@ -12705,7 +12705,7 @@ Rif I-ORG
 الطريفة O
 الأخرى O
 . O
-
+ARTICLE
 علي B-PERS
 بن I-PERS
 أبي I-PERS
@@ -13689,7 +13689,7 @@ Rif I-ORG
 مكانه O
 الآن O
 . O
-
+ARTICLE
 تعرضت O
 الأندلس B-LOC
 لمحن O
@@ -15252,7 +15252,7 @@ Rif I-ORG
 5 O
 قرون O
 . O
-
+ARTICLE
 بعد O
 أربعة O
 قرون O
@@ -15576,7 +15576,7 @@ Rif I-ORG
 في O
 سراييفو B-LOC
 . O
-
+ARTICLE
 من O
 اجل O
 تغطية O
@@ -16875,7 +16875,7 @@ Rif I-ORG
 بأكمله O
 " O
 . O
-
+ARTICLE
 لم O
 تثن O
 الحرارة O
@@ -17269,7 +17269,7 @@ Rif I-ORG
 ونجمات O
 سينمائيات O
 . O
-
+ARTICLE
 تتجه O
 أنظار O
 نحو O
@@ -17835,7 +17835,7 @@ Rif I-ORG
 حساب O
 ايطاليا B-LOC
 . O
-
+ARTICLE
 نجح O
 نادي B-ORG
 أندرليخت I-ORG
@@ -18066,7 +18066,7 @@ Rif I-ORG
 عرض O
 بعينه O
 . O
-
+ARTICLE
 قرر O
 الاتحاد B-ORG
 الدولي I-ORG
@@ -18254,7 +18254,7 @@ Rif I-ORG
 العرس O
 العالمي O
 . O
-
+ARTICLE
 حدائق B-LOC
 بابل I-LOC
 المعلقة I-LOC
@@ -18351,7 +18351,7 @@ Rif I-ORG
 أنواع O
 الحديقة O
 . O
-
+ARTICLE
 
 
 أعلن O
@@ -18665,7 +18665,7 @@ Rif I-ORG
 ربع O
 النهائي O
 . O
-
+ARTICLE
 الحرب B-MISC
 العالمية I-MISC
 الأولى I-MISC
@@ -19316,7 +19316,7 @@ Rif I-ORG
 3 O
 اغسطس O
 . O
-
+ARTICLE
 بغداد B-LOC
 - O
 ا B-ORG
@@ -19908,7 +19908,7 @@ Rif I-ORG
 تدمير O
 العراق B-LOC
 . O
-
+ARTICLE
 شهد O
 العراق B-LOC
 أمس O
