@@ -40,7 +40,7 @@
 من O
 الآن O
 . O
-ARTICLE
+
 محمد B-PERS
 عبد I-PERS
 الفتاح I-PERS
@@ -102,7 +102,7 @@ ARTICLE
 الفائز O
 بذهبية O
 في O
-أولمبياد O REVISIT
+أولمبياد O
 أثينا B-LOC
 2004 O
 حيث O
@@ -164,7 +164,7 @@ ARTICLE
 لإحراز O
 ميداليات O
 في O
-أولمبياد O REVISIT
+أولمبياد O
 بكين B-LOC
 2008 O
 . O
@@ -188,7 +188,7 @@ ARTICLE
 للفوز O
 بميدالية O
 في O
-أولمبياد O REVISIT
+أولمبياد O
 بكين B-LOC
 مع O
 عبد B-PERS
@@ -232,7 +232,7 @@ ARTICLE
 المصارعة O
 الحرة O
 . O
-ARTICLE
+
 كافو B-PERS
 مع O
 رئيس O
@@ -307,7 +307,7 @@ ARTICLE
 لمنتخب O
 البرازيل B-LOC
 في O
-المونديال O REVISIT
+المونديال O
 حيث O
 قدم O
 عروضا O
@@ -329,7 +329,7 @@ ARTICLE
 وبعد O
 الإخفاق O
 في O
-المونديال O REVISIT
+المونديال O
 استقال O
 المدرب O
 البرازيلي O
@@ -440,7 +440,7 @@ ARTICLE
 1994 O
 و1998 O
 . O
-ARTICLE
+
 رود B-PERS
 فان I-PERS
 نيستلروي I-PERS
@@ -749,7 +749,7 @@ ARTILCE
 ! O
 " O
 . O
-ARTICLE
+
 أوبرا B-PERS
 وينفري I-PERS
 اشتهرت O
@@ -1252,7 +1252,7 @@ XM I-ORG
 الزراعي O
 والغذائي O
 . O
-ARTICLE
+
 وافقت O
 الحكومة B-ORG
 الصينية I-ORG
@@ -1444,7 +1444,7 @@ ARTICLE
 إلى O
 الصين O
 . O
-ARTICLE
+
 أعلنت O
 شركة O ID
 نوكيا B-ORG
@@ -1886,7 +1886,7 @@ WiMax O
 إنتاج O
 مايكروسوفت B-ORG
 . O
-ARTICLE
+
 تراجع O
 اليورو B-MISC
 مقابل O
@@ -2150,7 +2150,7 @@ ARTICLE
 46ر116 O
 ين B-MISC
 . O
-عواصم O ARTICLE
+عواصم O 
 - O
 وكالات O
 : O
@@ -2624,7 +2624,7 @@ ARTICLE
 الخام O
 الخفيف O
 " O
-لايت B-MISC REVISIT
+لايت B-MISC
 سويت B-MISC
 كرود B-MISC
 " O
@@ -2671,7 +2671,7 @@ ARTICLE
 60 O
 دولارا B-MISC
 . O
-ARTICLE
+
 بيروت B-LOC
 ( O
 اف B-ORG
@@ -3039,7 +3039,7 @@ ARTICLE
 السلطة O
 الحالية O
 . O
-ARTICLE
+
 وصف O
 بيان O
 لهيئة B-ORG
@@ -3313,10 +3313,10 @@ ARTICLE
 قد O
 غرب O
 فيها O
-القمر O REVISIT
+القمر O
 قبل O
 غروب O
-الشمس O REVISIT
+الشمس O
 ، O
 لافتا O
 الى O
@@ -3415,7 +3415,7 @@ ARTICLE
 بدء O
 رمضان O
 . O
-ARTICLE
+
 هشام B-PERS
 بن I-PERS
 ثابت I-PERS
@@ -4305,7 +4305,7 @@ ARTICLE
 أجلت O
 ( O
 . O
-ARTICLE
+
 رايس B-PERS
 قالت O
 إن O
@@ -4632,7 +4632,7 @@ ARTICLE
 خطيرة O
 " O
 . O
-ARTICLE
+
 المالكي B-PERS
 تلقى O
 دعم O
@@ -4975,7 +4975,7 @@ ARTICLE
 أي O
 عقود O
 . O
-ARTICLE
+
 قال O
 المنتدى B-ORG
 الاقتصادي I-ORG
@@ -5125,7 +5125,7 @@ ARTICLE
 والسويد B-LOC
 والدانمارك B-LOC
 وسنغافورة B-LOC
-. O ARTICLE
+. O 
 روسيا B-LOC
 تراقب O
 الآبار O
@@ -5409,7 +5409,7 @@ ARTICLE
 مواردها O
 الطبيعية O
 . O
-ARTICLE
+
 يد O
 لوب B-PERS
 اليمنى O
@@ -5617,7 +5617,7 @@ ARTICLE
 انتهاء O
 البطولة O
 . O
-ARTICLE
+
 اثنان O
 من O
 لاعبي O
@@ -5784,7 +5784,7 @@ ARTICLE
 الثاني O
 المقبل O
 . O
-ARTICLE
+
 المدافع O
 الفرنسي O
 ويلي B-PERS
@@ -5955,7 +5955,7 @@ ARTICLE
 إيطاليا B-LOC
 ) O
 . O
-ARTICLE
+
 الدوحة B-LOC
 - O
 قنا B-ORG
@@ -6077,7 +6077,7 @@ ARTICLE
 الساحة O
 الفلسطينية O
 . O
-ARTICLE
+
 واشنطن B-ORG
 ( O
 اف B-ORG
@@ -6115,7 +6115,7 @@ ARTICLE
 التي O
 بذلت O
 منذ O
-أحداث O REVISIT
+أحداث O
 الحادي O
 عشر O
 من O
@@ -6187,7 +6187,7 @@ ARTICLE
 لادن I-PERS
 المسؤول O
 عن O
-اعتداءات O REVISIT
+اعتداءات O
 الحادي O
 عشر O
 من O
@@ -6380,7 +6380,7 @@ ARTICLE
 في O
 يناير O
 2001 O
-واعتداءات O REVISIT
+واعتداءات O
 الحادي O
 عشر O
 من O
@@ -6445,7 +6445,7 @@ ARTICLE
 يفعلوا O
 " O
 . O
-ARTICLE
+
 عواصم O
 - O
 ا B-ORG
@@ -6492,7 +6492,7 @@ ARTICLE
 بيان O
 صادر O
 عن O
-رئاسة O REVISIT
+رئاسة O
 الجمهورية O
 ان O
 " O
@@ -6908,7 +6908,7 @@ ARTICLE
 الحزينة O
 " O
 . O
-ARTICLE
+
 لشبونه B-LOC
 ـ O
 وكالات O
@@ -7183,7 +7183,7 @@ ARTICLE
 والجالية O
 المسلمة O
 . O
-ARTICLE
+
 سول B-ORG
 ـ O
 نيويورك B-LOC
@@ -7262,7 +7262,7 @@ ARTICLE
 الولايات B-LOC
 المتحدة B-ORG
 بعد O
-احداث11 O REVISIT
+احداث11 O
 سبتمبر O
 قتلت O
 الكثير O
@@ -7387,7 +7387,7 @@ ARTICLE
 تتمتع O
 بالسيادة O
 . O
-ARTICLE
+
 غزة B-LOC
 ـ O
 من O
@@ -7546,7 +7546,7 @@ ARTICLE
 الوطنية O
 الجديدة O
 مع O
-السلطة O REVISIT
+السلطة O
 الوطنية O
 الفلسطينية O
 , O
@@ -7935,7 +7935,7 @@ ARTICLE
 والتدريب O
 هناك O
 . O
-ARTICLE
+
 الخرطوم B-LOC
 ـ O
 عبدالواحد B-PERS
@@ -8229,7 +8229,7 @@ ARTICLE
 المنتظر O
 حياله O
 . O
-ARTICLE
+
 غزة B-LOC
 ـ O
 أ B-ORG
@@ -8379,7 +8379,7 @@ ARTICLE
 لكل O
 شيء O
 . O
-ARTICLE
+
 غزة B-LOC
 ـ O
 أ B-ORG
@@ -8527,7 +8527,7 @@ ARTICLE
 مع O
 إسرائيل B-LOC
 . O
-ARTICLE
+
 كتب O
 ـ O
 خليفة B-PERS
@@ -9012,7 +9012,7 @@ ARTICLE
 المخصص O
 لمصر B-LOC
 . O
-ARTICLE
+
 كتب O
 : O
 محمود B-PERS
@@ -9628,7 +9628,7 @@ ARTICLE
 المباريات O
 المقبلة O
 . O
-ARTICLE
+
 لندن B-LOC
 : O
 معد B-PERS
@@ -10054,7 +10054,7 @@ ARTICLE
 الاسبوع O
 الحالي O
 . O
-ARTICLE
+
 الأوروبيون O
 يتهمون O
 الصينيين O
@@ -11244,7 +11244,7 @@ ARTICLE
 46 O
 % O
 في O
-مبيعاتها O ARTICLE
+مبيعاتها O 
 لندن B-LOC
 ـ O
 دبي B-LOC
@@ -11789,7 +11789,7 @@ A4 O
 لتسهيل O
 الحمولة O
 . O
-ARTICLE
+
 نيقوسيا B-LOC
 - O
 ( O
@@ -12864,7 +12864,7 @@ ARTICLE
 - O
 صفر O
 . O
-ARTICLE
+
 محيط O
 - O
 الراي B-ORG
@@ -13509,7 +13509,7 @@ ARTICLE
 الاحلام I-MISC
 » O
 . O
-ARTICLE
+
 البحرين B-LOC
 - O
 الرأي B-ORG
@@ -13736,7 +13736,7 @@ ARTICLE
 العواصم O
 الأوروبية O
 . O
-ARTICLE
+
 استقبل O
 صاحب O
 السمو O
@@ -14125,7 +14125,7 @@ ARTICLE
 بابكر I-PERS
 أحمد I-PERS
 . O
-ARTICLE
+
 بيروت B-LOC
 - O
 الاتحاد O
@@ -15136,7 +15136,7 @@ ARTICLE
 في O
 خطر O
 . O
-ARTICLE
+
 أكد O
 عبدالله B-PERS
 صالح I-PERS
