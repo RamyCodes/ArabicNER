@@ -108499,7 +108499,7 @@ BBC B-ORG
 التعامل O
 مع O
 الآخرين O
-ألونسو B-PERS ARTICE
+ألونسو B-PERS
 يتهم O
 شوماخر B-PERS
 بافتقاد O
