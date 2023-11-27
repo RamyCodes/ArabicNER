@@ -1,5 +1,5 @@
 import torch
-from transformers import BertTokenizer
+from transformers import AutoTokenizer
 from functools import partial
 import logging
 import re
@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 class BertSeqTransform:
     def __init__(self, bert_model, vocab, max_seq_len=512):
-        self.tokenizer = BertTokenizer.from_pretrained(bert_model)
+        self.tokenizer = AutoTokenizer.from_pretrained(bert_model)
         self.encoder = partial(
             self.tokenizer.encode,
             max_length=max_seq_len,
@@ -54,7 +54,7 @@ class BertSeqTransform:
 
 class NestedTagsTransform:
     def __init__(self, bert_model, vocab, max_seq_len=512):
-        self.tokenizer = BertTokenizer.from_pretrained(bert_model)
+        self.tokenizer = AutoTokenizer.from_pretrained(bert_model)
         self.encoder = partial(
             self.tokenizer.encode,
             max_length=max_seq_len,
